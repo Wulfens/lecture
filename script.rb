@@ -1,1 +1,4 @@
 var = coucou
+
+
+puts "#{var}"
